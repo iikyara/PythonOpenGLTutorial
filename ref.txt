@@ -1,0 +1,13 @@
+・床井研究室
+http://marina.sys.wakayama-u.ac.jp/~tokoi/?blogcategory=OpenGL
+めっっっっちゃくちゃ参考になる
+ほぼ全部のってる
+
+
+・[OpenGL] 任意の頂点形式に対応可能な頂点バッファオブジェクトの設定方法
+https://docs.google.com/document/pub?id=1DyW4bu-ni8cr28lnltu6_r-bhve44BdIwqb2ZjwpcrI
+vboの使い方で参考になる
+
+・Pythonの __getitem__ に与える引数やスライスについて調べてみた
+https://qiita.com/gyu-don/items/bde192b129a7b1b8c532
+meshの頂点や法線ベクトルの参照のところで役に立ちそう（__getitem__あたりで役立つ）
